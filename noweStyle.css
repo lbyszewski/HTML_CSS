@@ -25,3 +25,12 @@ table {
     border: solid;
     
 }
+header{
+    font-size: 72px;
+    text-align: center;
+}
+
+footer{
+    font-size: 72px;
+    text-align: center;
+}
